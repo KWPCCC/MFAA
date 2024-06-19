@@ -1,7 +1,7 @@
 # Multi-Feature Attention Attack(MFAA)
 Corresponding code to the paper "Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention"
-< img src="https://github.com/KWPCCC/MFAA/blob/main/attention.png" style="zoom:50%;" />
 
+< img src="https://github.com/KWPCCC/MFAA/blob/main/attention.png" style="zoom:50%;" />
 
 ## Requirements
 

@@ -3,8 +3,6 @@ Corresponding code to the paper "Enhancing the Transferability of Adversarial At
 <div align="center">
   <img src="https://github.com/KWPCCC/MFAA/blob/main/attention.png">
 </div>
-![image text](https://github.com/KWPCCC/MFAA/blob/main/attention.png "attention Comparison")
-
 
 ## Requirements
 

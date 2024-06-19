@@ -3,6 +3,8 @@ Corresponding code to the paper "Enhancing the Transferability of Adversarial At
 <div align="center">
   <img src="https://github.com/KWPCCC/MFAA/blob/main/attention.png">
 </div>
+![image text](https://github.com/KWPCCC/MFAA/blob/main/attention.png "attention Comparison")
+
 
 ## Requirements
 
@@ -29,7 +31,7 @@ Corresponding code to the paper "Enhancing the Transferability of Adversarial At
 - FMAA
 
 ```
-python Multi-Feature Attention Attack.py --model_name resnet_v1_152 --attack_method FIA --layer_name resnet_v1_152/block2/unit_7/bottleneck_v1/Relu --ens 30 --probb 0.7 --output_dir ./adv/MFAA/
+python Multi-Feature Attention Attack.py --model_name resnet_v1_152 --attack_method mfaa --layer_name resnet_v1_152/block2/unit_7/bottleneck_v1/Relu --ens 30 --probb 0.7 --output_dir ./adv/MFAA/
 ```
 
 ##### Evaluate the attack success rate

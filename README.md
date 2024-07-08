@@ -27,7 +27,7 @@ Corresponding code to the paper "Enhancing the Transferability of Adversarial At
 
 ##### Generate adversarial examples:
 
-- FMAA
+- MFAA
 
 ```
 python Multi-Feature Attention Attack.py --model_name resnet_v1_152 --attack_method mfaa --layer_name resnet_v1_152/block2/unit_7/bottleneck_v1/Relu --ens 30 --probb 0.7 --output_dir ./adv/MFAA/
